@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tharcoamog.github.io/sitemap
+Sitemap: https://tharcoamog.github.io/app/sitemap
+Sitemap: https://tharcoamog.github.io/assets/sitemap
+Sitemap: https://tharcoamog.github.io/css/sitemap
+Sitemap: https://tharcoamog.github.io/includes/sitemap
+Sitemap: https://tharcoamog.github.io/item/sitemap
+Sitemap: https://tharcoamog.github.io/src/sitemap
